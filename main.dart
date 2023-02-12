@@ -1,10 +1,10 @@
-import 'package:amazon_app/constants/global_variables.dart';
-import 'package:amazon_app/features/auth/screens/auth_screen.dart';
-import 'package:amazon_app/features/auth/services/auth_services.dart';
-import 'package:amazon_app/features/home/screens/home_screen.dart';
-import 'package:amazon_app/providers/user_provider.dart';
-import 'package:amazon_app/router.dart';
-import 'package:amazon_app/routes/app_routes.dart';
+import 'package:bedoun_khajall/constants/global_variables.dart';
+import 'package:bedoun_khajall/features/auth/screens/auth_screen.dart';
+import 'package:bedoun_khajall/features/auth/services/auth_services.dart';
+import 'package:bedoun_khajall/features/home/screens/home_screen.dart';
+import 'package:bedoun_khajall/providers/user_provider.dart';
+import 'package:bedoun_khajall/router.dart';
+import 'package:bedoun_khajall/routes/app_routes.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:get/get.dart';
