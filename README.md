@@ -2,6 +2,13 @@
 Pharmacy Delivery App with Admin Panel For IOS & Android
 
 
+Video From App
+
+https://user-images.githubusercontent.com/69278749/218295165-0c876fd3-0062-4290-934a-343c5982cfae.mp4
+
+
+
+
 ScreenShots From App
 
 1- Splash Screen
