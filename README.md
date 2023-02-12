@@ -41,5 +41,12 @@ ScreenShots From App
 ![1676179226433](https://user-images.githubusercontent.com/69278749/218294855-15393def-ba94-4920-b28b-f96a3127080c.jpg)
 
 11- Address Screen
+![1676179226416](https://user-images.githubusercontent.com/69278749/218295011-e955539e-658a-4698-90d7-330a14986780.jpg)
+
+12- Payment Options
+![1676179226401](https://user-images.githubusercontent.com/69278749/218295021-4c2a3136-da1f-4191-80b4-5a23feff5378.jpg)
+
+13- Orders Details Screen
+![1676179226386](https://user-images.githubusercontent.com/69278749/218295040-b751a236-4c0c-45d3-9553-bf9929268f16.jpg)
 
 
